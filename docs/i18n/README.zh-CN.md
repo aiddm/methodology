@@ -1,13 +1,13 @@
 
-#  AIDDM 方法論 — 官方文件
+#  AIDDM 方法论 — 官方文档
 
 <p align="center">
   <img src="../../assets/banners/methodology_banner.png" width="100%" alt="AIDDM Methodology Banner" />
 </p>
 
-歡迎來到 **AIDDM 方法論文件庫**，此處是 AIDDM（AI 文件驅動方法論）之標準、規格、生命週期定義與治理規則的官方來源。
+欢迎来到 **AIDDM 方法论文档库**，这里是 AIDDM（AI 文档驱动方法论）的标准、规范、生命周期定义与治理规则的官方来源。
 
-AIDDM 定義了文件、程式碼與測試如何保持同步：
+AIDDM 定义了文档、代码与测试如何保持同步：
 
 - Document Chain  
 - Development Lifecycle  
@@ -24,14 +24,14 @@ AIDDM is the foundation for:
 
 ## 📘 What Is AIDDM?
 
-AIDDM 能確保：
+AIDDM 能确保：
 - Consistent documentation  
 - Traceable design ↔ code ↔ tests  
 - Full auditability  
 - AI-assisted flow  
 - Reliable development lifecycle  
 
-## 📚 資料庫結構
+## 📚 仓库结构
 
 ```
 methodology/
@@ -49,11 +49,11 @@ methodology/
     └── diagrams/
 ```
 
-## 🔗 相關存放庫
+## 🔗 相关仓库
 - aiddm-sdk  
 - aiddm-mcp  
 - aiddm-ce  
 - aiddm-market  
 
-## 🏁 AIDDM Institute 維護
+## 🏁 由 AIDDM Institute 维护
 Building AI-governed, document-driven, fully verifiable development.
