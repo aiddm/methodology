@@ -76,7 +76,7 @@ flowchart LR
   B --> C[Document Phase<br/>SRS · SDS · STS]
   C --> D[Code Phase]
   D --> E[Test Phase]
-  E --> F[Verify Phase (SDK)]
+  E --> F[Verify Phase SDK]
   F --> G[Commit + Tag]
   G --> H{More Cycles?}
   H -->|Yes| B
